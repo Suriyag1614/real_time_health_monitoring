@@ -22,3 +22,6 @@ Python, pandas, scikit-learn (IsolationForest), Streamlit, Plotly.
 - LSTM/Autoencoder for sequence anomalies
 - Kafka + Docker for production streaming
 - Authentication, logging, HIPAA controls
+
+## Dashboard
+[Click Here](https://real-time-health-monitoring.streamlit.app/) to view the streamlit deployment
