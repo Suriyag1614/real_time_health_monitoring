@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+streamlit
+joblib
+# Optional for real brokers: kafka-python
+# Optional if you want deep learning: tensorflow     # or torch
